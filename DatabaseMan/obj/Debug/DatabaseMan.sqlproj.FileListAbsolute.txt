@@ -1,0 +1,9 @@
+C:\Users\Jack\documents\visual studio 2015\Projects\DatabaseMan\DatabaseMan\bin\Debug\DatabaseMan.dacpac
+C:\Users\Jack\documents\visual studio 2015\Projects\DatabaseMan\DatabaseMan\bin\Debug\DatabaseMan.dll
+C:\Users\Jack\documents\visual studio 2015\Projects\DatabaseMan\DatabaseMan\bin\Debug\DatabaseMan.pdb
+C:\Users\Jack\documents\visual studio 2015\Projects\DatabaseMan\DatabaseMan\obj\Debug\Model.xml
+C:\Users\Jack\documents\visual studio 2015\Projects\DatabaseMan\DatabaseMan\obj\Debug\refactor.xml
+C:\Users\Jack\documents\visual studio 2015\Projects\DatabaseMan\DatabaseMan\obj\Debug\postdeploy.sql
+C:\Users\Jack\documents\visual studio 2015\Projects\DatabaseMan\DatabaseMan\obj\Debug\predeploy.sql
+C:\Users\Jack\documents\visual studio 2015\Projects\DatabaseMan\DatabaseMan\obj\Debug\DatabaseMan.dll
+C:\Users\Jack\documents\visual studio 2015\Projects\DatabaseMan\DatabaseMan\obj\Debug\DatabaseMan.pdb
